@@ -1096,6 +1096,6 @@ st.markdown("""
         <span style="color:#94A3B8;font-size:12px;">📈 Real-Time Analytics</span>
     </div>
     <div style="height:1px;width:60%;margin:8px auto;background:linear-gradient(90deg,transparent,#2563EB,transparent);"></div>
-    <p style="color:#475569;font-size:11px;margin-top:8px;">© 2024 Neural Retail Analytics · Built with Streamlit</p>
+    <p style="color:#475569;font-size:11px;margin-top:8px;">© 2026 Neural Retail Analytics · Built with Streamlit</p>
 </div>
 """, unsafe_allow_html=True)
